@@ -1,4 +1,4 @@
-# case-frontend-med-ramverk-cinema
+# Case Frontend med ramverk - Cinema
 
 I detta caset ska ni arbeta individuellt. Scenariot är att en vän har köpt en mindre biosalong och vill låta sina kunder boka stolar för kommande föreställningar.
 Ni har fått tillgång till ett egetutvecklat API som hanterar resurserna `movies`, `shows`, `bookings`
@@ -34,10 +34,11 @@ Veckan efter presentation kommer feedback ges under följande rubriker:
 *Designfeedback tillkommer från Mattias*
 
 ## Presentation- och Inlämningsdatum
-- Enligt planering hålls presentation av caset under början av vecka 39. Notera lärarna kommer börja ge feedback direkt efter presentationen.
+- Enligt planering hålls presentation av caset under början av vecka 39.
 - **Halvtidsredovisning** där vi visar hur långt vi har kommit är 2024-09-10, tisdag kl 10.25  
-- Preliminärt datum för presentation och inlämning är 2023-09-24, tisdag kl. 10.25.
-- Preliminärt datum för feedback är 2023-09-24 till 2024-09-29 (v39), söndag kl. 23.59.
+- Preliminärt datum för presentation är 2023-09-24, tisdag kl. 10.25.
+- Preliminärt datum för senast inlämning är 2024-09-29, söndag kl 23.59.
+- Preliminärt datum för senast feedback är 2023-09-30 till 2024-10-04 (v40), fredag kl. 17.00.
 
 ## Inlämning
 Dela ett repo med Henry (@frozenbanana), Anders (@andsju) och mattias (@addkolon)
