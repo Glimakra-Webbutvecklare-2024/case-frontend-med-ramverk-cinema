@@ -9,7 +9,7 @@ API länk: https://cinema-api.henrybergstrom.com
 1. Minimum
 - En användare ska kunna bläddra mellan filmer från API:ets utbud
 - En användare ska kunna se vilka föreställningar (`Shows`) som finns för vald film `movie`.
-- En användare ska kunna boka en biljett för föreställning (`Shows`) givet att det finns tillgängliga säten
+- En användare ska kunna boka (`Bookings`) en biljett för föreställning (`Shows`) givet att det finns tillgängliga säten
   - Användaren får ett meddelande att bokningen är klar med detaljer om bokningen (email, tider, pris)
   - Användaren ska se att stolen är upptagen efter bokningen
 - Varje UI enhet ska vara sin egen komponent (MovieCard, ShowCard, BookingForm)
