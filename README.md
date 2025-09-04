@@ -15,14 +15,17 @@ API länk: https://cinema-api.henrybergstrom.com
 - Varje UI enhet ska vara sin egen komponent (MovieCard, ShowCard, BookingForm)
 - useEffect ska användas för att hämta information från APIet 
 - Inga felmeddelande i konsolen
-- Minst 10 git commits med rimlig meddelande
+- Använd React-Router för att visa minst 2 sidor
+- Minst 10 git commits (över tid) med beskrivande meddelande
 
 2. Extra
 Utöver samliga minimum-punkter ska dessutom följade krav vara uppfyllda:
 
 - En bokning ska hantera flera antal platser. Varje plats ska vara valbar. 
 - Lediga platser i biografen ska presenteras visuellt och plats väljs genom att användaren klickar på en ruta/ikon.
-- Applikationen ska vara publicerad
+- Applikationen ska vara publicerad (t.ex via hoster.glimnet.se)
+- Möjliggör navigation med url parameter t.ex /movie/:name
+- Spara bokning i local storage
 
 ## Feedback
 Veckan efter presentation kommer feedback ges under följande rubriker:
@@ -35,10 +38,16 @@ Veckan efter presentation kommer feedback ges under följande rubriker:
 
 ## Presentation- och Inlämningsdatum
 - Enligt planering hålls presentation av caset under början av vecka 39.
-- **Halvtidsredovisning** där vi visar hur långt vi har kommit är 2024-09-10, tisdag kl 10.25  
-- Preliminärt datum för presentation är 2023-09-24, tisdag kl. 10.25.
+- **Halvtidsredovisning** där vi visar hur långt vi har kommit är 2024-09-16, tisdag kl 10.25  
+- Preliminärt datum för presentation är 2023-09-25, Torsdag kl. 10.25.
 - Preliminärt datum för senast inlämning är 2024-09-29, söndag kl 23.59.
 - Preliminärt datum för senast feedback är 2023-09-30 till 2024-10-04 (v40), fredag kl. 17.00.
+
+## Teknisk Intervju
+Under vecka 40 kommer ni bli kallade till intervju för att berätta mer om ert projekt där ni förväntas svara på djupgående frågor.
+Frågorna kommer vara examinerande och även beröra information som finns i kursboken. 
+
+Under handledningstid finns det också möjlighet att träna på tekniska intervjuer.
 
 ## Inlämning
 Dela ett repo med Henry (@frozenbanana), Anders (@andsju) och mattias (@addkolon)
