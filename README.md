@@ -19,7 +19,6 @@ API länk: https://cinema-api.henrybergstrom.com
 - Minst 10 git commits (över tid) med beskrivande meddelande
 
 2. Extra
-Utöver samliga minimum-punkter ska dessutom följade krav vara uppfyllda:
 
 - En bokning ska hantera flera antal platser. Varje plats ska vara valbar. 
 - Lediga platser i biografen ska presenteras visuellt och plats väljs genom att användaren klickar på en ruta/ikon.
